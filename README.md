@@ -5,7 +5,7 @@
 - Nguyen Quang Huy
 - 2003
 - Hung Yen, Viet Nam
-- Mobile Developer: Flutter, Swift, Java, Kotlin
+- Mobile Developer: Flutter, Swift, Java, Kotlin, C++, Python
 
 # Company
 - VnCert/CC
